@@ -46,6 +46,14 @@ body {
    padding: 0.5rem 1rem;
 }
 
+.instruction {
+   background-color: #ccc;
+   margin-top: 0.5rem;
+   padding: 0.5rem;
+   border-radius: 15px;
+   border: 1px solid black;
+}
+
 #add_btn {
    padding: 0.5rem 1rem;
    background-color: #ccc;
